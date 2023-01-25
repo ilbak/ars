@@ -1,0 +1,75 @@
+  <h2>Espresso</h2>
+  <p>The fast line. Only the three Attitudes for fast sessions and board games. </p>
+<button class="switchbutton" style="font-size: 0.9rem; margin-top:40px;" data-target="#start">Home page</button>
+</div>
+
+
+<p style="text-align:center; font-size:0.8rem;">Illustrazione di Fear of the Darkness</p>
+
+<div class="interblank" style="height:50px;"></div>
+
+<h1>v. 16.08 </h1>
+
+
+
+<div class="interblank" style="height:100px;"></div>
+<div class="pagebox">
+  <p>A <strong>role-playing game</strong> is a theatrical improvisation in which each player interprets a character of the story for the simple pleasure of interpreting it and writing together the best possible story (concept of de interpretatio).</p>
+  <p>A player (author of the "plot" of the story and game referee) plays the role of the <strong>Magister</strong> following and telling the development of the narration. So that everything is not just a fanciful hyperbole, it is customary to use a game regulation that defines parameters and limits to game situations.</p>
+  <p style="margin-top:20px;"><strong>ARS Espresso</strong> is an ultra-light regulation that wants to bring the role play to the simplicity and speed of the board game. This manual presents basic mechanics ready for the game and which, depending on the settings, can be expanded at will.</p>
+</div>
+
+
+<div class="interblank" style="height:100px;"></div>
+<h2>1 The character</h2>
+<p>Each player <strong>creates his character by dividing 10 Creation Points</strong> from the following three Attitudes and annotating them on his character sheet, each with <strong>a minimum value of 1 and a maximum of 8</strong>:</p>
+
+<div class="interblank" style="height:30px;"></div>
+<div class="pagebox">
+<h3><img src = "https://i.imgur.com/sfUTZJE.png">CORPUS</h3>
+Physical strength, endurance and melee attack</td>
+
+<h3><img src = "https://i.imgur.com/7hpixK6.png">CELERITAS</h3>
+Speed, precision, instrument use and distance attack</td>
+
+<h3><img src = "https://i.imgur.com/vkP4lCL.png">ANIMUS</h3>
+Knowledge, communication, perception and magical arts</td>
+</div>
+
+
+<p class="nota"> Note: To create more or less advanced characters, the Magister can grant a number of Creation Points higher or lower: 5 Weak, 10 Normal, 15 Expert, 20 Heroic.</p>
+
+<p>The player then notes the rumors: <strong>Total Hit Points</strong>  (number of damage beyond which the character dies when exiting the game) the value of Corpus x 2. In <strong>Movement</strong> (spaces that can be passed in an action) the value of Celeritas. <strong>Range</strong>  (with ranged weapons or actions) the Celeritas value x 2. Initial <strong>money</strong> the value of Animus x 5. <strong>Mana</strong>  (total magic power reserve) the value of Animus x 3.</p>
+
+<p class="esempio">Example: Luca creates his character: "Rogar is a warrior who lives by expedients and travels the world." It will mark on its board: 5 Corpus, 3 Celeritas, 2 Animus. 10 hit points, 10 load, 3 movement, 6 throw, 25 initial denials and 6 mana.</p>
+
+
+<div class="interblank" style="height:100px;"></div>
+<h2>2. Attitudes</h2>
+
+<p>When the player wants to use the skills of his character for an action that can give him advantages or disadvantages within the story (fight, use, search ...) he will have to make a <strong>test on the attitude</strong>  related to the type of action taken by pulling 1 dice of 10 faces: If the result is equal to or less than the value of Attitude used (considering also any bonuses given for example by the Equipment) the test succeeds, otherwise it fails.</p>
+<p>At a test of Attitude the result of 1 (called <strong>positive critic</strong> ) is the automatic success of the action, 10 is the disastrous failure ( <strong>negative critic</strong> ). The <strong>number of successes to the test</strong>  is the difference between the value used in the test (with any bonuses) and the result of the dice.</p>
+<p>Successes represent the effectiveness of the test performed: in <strong>combat tests</strong>  the number of hits will be the number of hit points inflicted on the opponent. In <strong>remote tests</strong>  (with targets beyond spaces adjacent to the occupied one) every space beyond the value of the Range <strong>accumulates a -1 malus to the test</strong> . In the <strong>research tests</strong>  (based on Animus Attitude) it is the number of spaces surrounding oneself in which the character reveals any clues or secrets. In a <strong>competitive action</strong> between characters wins the character that gets more hits. In a <strong>cooperative action</strong>, with another character sum up half of the successes or failures obtained to those of the character who was the first to take the action.</p>
+
+<p class="esempio">Rogar uses his Animus 2 Attitude to search around him. Luca rolls the dice and gets 1. Being 1 of the dice below 2 of the value used, the action succeeds with 1 success. Indicates to the Magister the space in which he will detect clues, secrets or traps.</p>
+
+
+<div class="interblank" style="height:100px;"></div>
+<h2>3. Equipment</h2>
+<p><strong>Weapons and tools</strong> within the game add a bonus to the Attitude to which they are associated (only in actions related to their use). The <strong>protections increase the armor value</strong> : extra hit points that are consumed before the character's basic hit points are exhausted. The <strong>spells convert mana in fact</strong> , as indicated in their description. Each character can <strong>carry a maximum number of items of equipment</strong>  equal to the number of his current Hit Points.</p>
+<p><strong>Value of the equipment</strong>  is generically attributable to 10 deniers each: +1 bonus / hit point that deals or care / turn of magic effect granted / 1 extra meter in which its action takes effect. If it is mono-use the value is halved.</p>
+<p>The equipment grants a <strong>maximum</strong>  total <strong>bonus</strong> equal to the value that the character increases. Each object requires an action to <strong>be put, removed or moved</strong> .</p>
+
+<p class="esempio">Rogar has a sword that gives +2 to the attack. Having 5 in Corpus Attitude, once equipped will have 7 in melee attack trials. Perform an attack test against an enemy that has an armor value of 3. The dice rolls 2. Then he has 5 hits on the roll, 3 of which are subtracted from the armor and 2 from the opponent's hit points.</p>
+
+
+<div class="interblank" style="height:100px;"></div>
+<h2>4. The game</h2>
+<p>The game round takes place starting from the character with the highest Celeritas. <strong>In each turn each character has at his disposal 3 actions</strong>  of which he accumulates a <strong>penalty of -2 the second action and -3 the third</strong> . The player can also choose to <strong>keep third and possibly also second action</strong> (with relative malus) to use them within the next turn. It is possible to skip the turn ( <strong>rest</strong> ) by sacrificing the 3 actions and thus recovering the value of Corpus divided 3 into Hit Points and Animus divided by 3 into Mana. <strong>The game ends</strong> with the death of the characters or success in their business.</p>
+
+<p class="esempio">Rogar is in a combat phase and uses in his first round his 3 actions to attack: he will perform his first melee attack test with the value of 7 (Corpus 5 + 2 bonus given by the sword as seen in the previous example ), in the second action the value of 5 and in the third of 3. In the second round he decides to keep his third action, so in the third round he can perform an extra action with the -3 penalty of the previous round.</p>
+
+<div class="interblank" style="height:100px;"></div>
+<div class='switchbuttons'>
+<button class="switchbutton" data-target="#start">Home page</button>
+</div>
