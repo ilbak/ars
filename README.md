@@ -1,5 +1,3 @@
-# ars
-
 <h1><img src="https://i.imgur.com/ObeGYTU.png"></h1>
 <h1>A.R.S.</h1><h2>(All-Purpose Roleplaying System)</h2>
 </h2><a href='https://www.ars-rpg.com'>www.ars-rpg.com</a></h2>
