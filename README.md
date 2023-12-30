@@ -1,13 +1,14 @@
 # ars
 
-<h1><img src="https://i.imgur.com/ObeGYTU.png"><br>
-A.R.S. (All-Purpose Roleplaying System) www.ars-rpg.com</h1>
+<h1><img src="https://i.imgur.com/ObeGYTU.png"></h1>
+<h1>A.R.S.</h1><h2>(All-Purpose Roleplaying System)</h2>
+</h2><a href='https://www.ars-rpg.com'>www.ars-rpg.com</a></h2>
 
-ARS is a gaming system aimed at simplicity and adaptability in every play experience.
+<p>ARS is a gaming system aimed at simplicity and adaptability in every play experience.</p>
 
-Born in 2005 from an idea of the BaK (www.ilbak.it) that every year takes care of the edition and the development of new manuals.
+<p>Born in 2005 from an idea of Roberto "the BaK" Cananzi (www.ilbak.it) that every year takes care of the edition and the development of new manuals.</p>
 
-The ARS provides a balanced and accessible basis for every kind of game you want to create: role-playing games, tactics, narratives, party games and live games.
+<p>The ARS provides a balanced and accessible basis for every kind of game you want to create: role-playing games, tactics, narratives, party games and live games.</p>
 
 <p>The system is based on the concept that every character in a story can be defined by a set of three fundamental values called <b>Attitudes</b>:</p>
 
