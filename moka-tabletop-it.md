@@ -11,13 +11,13 @@ Un  *gioco di ruolo* è un'interpretazione teatrale in cui ogni giocatore interp
 Ogni giocatore crea il proprio personaggio dividendo  *100 Punti di Creazione* tra le seguenti  *tre percentuali di Attitudini* ( *ciascuna con un valore minimo del 10% e massimo dell'80%* ) e le annota sul foglio del personaggio:
 
  
-CORPUS
+<img src = "https://i.imgur.com/sfUTZJE.png" style="margin-top:30px;">CORPUS
 Forza fisica, resistenza e attacco corpo a corpo
 
-CELERITAS
+<img src = "https://i.imgur.com/7hpixK6.png" style="margin-top:30px;">CELERITAS
 Velocità, precisione, uso di strumenti e attacco a distanza
 
-ANIMUS
+<img src = "https://i.imgur.com/vkP4lCL.png" style="margin-top:30px;">ANIMUS
 Conoscenza, comunicazione, percezione e arti magiche
 
 
@@ -63,12 +63,13 @@ Quando il personaggio si trova a dover utilizzare le sue abilità per un'azione 
 **[ESEMPIO]** Elikki attacca un avversario utilizzando il 20% dell'Attitudine Corpus, il 20% dell'Arte "Attacco corpo a corpo con coltelli" e il 5% di bonus del suo pugnale. Al tiro di 100 il risultato è 20, quindi ottiene 25 colpi e infligge 25 punti di danno all'avversario.
 
 Riferimenti in percentuale dell'Arte e rispettivi livelli di conoscenza:
-Principiante: 20%
-Discreto: 40%
-Buono: 60%
-Esperto: 80%
-Maestro: 100%
 
+| Principiante | 20% | 
+| Discreto | 40% | 
+| Buono | 60% | 
+| Esperto | 80% | 
+| Maestro | 100% | 
+ 
 ## 3. Il Gioco
 
 Il round di gioco inizia con il Magister che descrive la scena della storia e ha luogo dal personaggio con la Celeritas più alta. Ad ogni turno, ogni personaggio ha a disposizione 3 azioni, per le quali si accumula una penalità del -20% per la seconda azione e del -30% per la terza. È possibile saltare il turno (riposo) sacrificando le 3 azioni e recuperando così il valore del Corpus diviso 3 in Punti Ferita e dell'Animus diviso 3 in Mana. Il gioco termina con la morte dei personaggi o il successo nei loro affari.
@@ -89,7 +90,15 @@ Le protezioni aumentano il valore dell'armatura, punti ferita extra che vengono 
 
 Nel gioco, ogni soggetto fisico ha una "dimensione" e un "materiale", da cui è possibile stabilire il numero di punti ferita: Moltiplicatore del materiale x Valore della dimensione. Se per un personaggio il termine dei punti ferita rappresenta la morte, per un oggetto rappresenterà uno stato di danneggiamento in cui è ora usurato e inutile. La dimensione deriva dallo spazio occupato dal soggetto e cambia anche il campo entro cui può compiere azioni a contatto. Per ottenere la dimensione si confronta il valore dello spazio con i parametri mostrati nella seguente tabella:
 
-**[Tabella di conversione dimensionale]**
+| 1 Microscopica | 3 cm3 | 3 cm. | 
+| 2 Piccolissima | 10 cm3 | 10 cm. | 
+| 3 Ridotta | 25 cm3 |  25 cm. | 
+| 4 Piccola | 50 cm3 | 50 cm. | 
+| 5 Media | 1 m3 | 1 m. | 
+| 6 Grande | 2 m3 | 1 m. | 
+| 7 Molto grande | 3 m3 | 2 m. | 
+| 8 Gigantesca | 4 m3 | 3 m. | 
+
 
 Al di là della dimensione 8 è possibile ottenere un numero infinito di dimensioni, che aumentano con ogni metro quadrato occupato dal soggetto e mantengono un flusso uguale allo spazio occupato dalla creatura -1. Nel caso di oggetti cavi o che non coprono completamente lo spazio della loro dimensione, il valore della dimensione deve essere dimezzato.
 
@@ -98,28 +107,14 @@ Al di là della dimensione 8 è possibile ottenere un numero infinito di dimensi
 Il materiale deriva dalla durezza del soggetto e viene confrontato con la seguente tabella che mostra il moltiplicatore utile per il calcolo dei punti ferita (se il materiale considerato non è nella lista, usa un materiale di durezza simile, nel caso di oggetti composti da materiali diversi vengono calcolati in base al materiale prevalente):
 
 
-1 Tessuto
-5 x taglia
+| 1 Tessuto  | 5 x taglia |
+| 2 Vetro  | 10 x taglia |
+| 3 Cuoio  | 15 x taglia |
+| 4 Organico  | 20 x taglia |
+| 5 Legno  | 25 x taglia |
+| 6 Pietra  | 30 x taglia |
+| 7 Metallo  | 35 x taglia |
+| 8 Kevlar  | 40 x taglia |
 
-2 Vetro
-10 x taglia
-
-3 Cuoio
-15 x taglia
-
-4 Organico
-20 x taglia
-
-5 Legno
-25 x taglia
-
-6 Pietra
-30 x taglia
-
-7 Metallo
-35 x taglia
-
-8 Kevlar
-40 x taglia
 
 **[ESEMPIO]** Se un umano medio ha punti ferita di 20 (materiale organico) x 5 (dimensione media), Komo è un androide di ferro di dimensione 6. I suoi punti ferita saranno pari a 35 (ferro) x 6 (dimensione).

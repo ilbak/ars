@@ -72,12 +72,12 @@ When the character finds himself having to use his abilities for an action that 
 
  
 References in percentage of Art and respective levels of knowledge:
-Noob: 20%
-Discreet: 40%
-Good: 60%
-Expert: 80%
-Master: 100%
 
+| Noob | 20% | 
+| Not bad | 40% | 
+| Good | 60% | 
+| Expert | 80% | 
+| Master | 100% | 
 
 
 ## 3. The Game
@@ -110,48 +110,14 @@ The size comes from the space occupied by the subject and also changes the sco
 To obtain the size compare the value of the space with the parameters shown in the following table:
 
 
-
-1 Microscopic
-3 cm3
-3 cm.
-
-
-2 Lowercase
-10 cm3
-10 cm.
-
-
-3 Reduced
-25 cm3
-25 cm.
-
-
-4 Small
-50 cm3
-50 cm.
-
-
-5 Average
-1 m3
-1 m.
-
-
-6 Great
-2 m3
-1 m.
-
-
-7 Huge
-3 m3
-2 m.
-
-
-8 Gigantic
-4 m3
-3 m.
-
-
-
+| 1 Microscopic | 3 cm3 | 3 cm. | 
+| 2 Lowercase | 10 cm3 | 10 cm. | 
+| 3 Reduced | 25 cm3 |  25 cm. | 
+| 4 Small | 50 cm3 | 50 cm. | 
+| 5 Average | 1 m3 | 1 m. | 
+| 6 Great | 2 m3 | 1 m. | 
+| 7 Huge | 3 m3 | 2 m. | 
+| 8 Gigantic | 4 m3 | 3 m. | 
 
 
 Beyond size 8 it is possible to obtain an infinite number of sizes, which increase with each square meter occupied by the subject and maintain a flow equal to the space occupied by the creature -1. In case of hollow objects or that do not completely cover the space of their size, the value of the size must be halved.
@@ -163,29 +129,21 @@ The material derives from the hardness of the subject and is compared with the 
 
 
  
-1 Fabric
-5 x size
+| 1 Fabric| 5 x size | 
 
-2 Glass
-10 x size
+| 2 Glass | 10 x size | 
 
-3 Leather
-15 x size
+| 3 Leather | 15 x size | 
 
-4 Organic
-20 x size
+| 4 Organic | 20 x size | 
 
-5 Wood
-25 x size
+| 5 Wood | 25 x size | 
 
-6 Stone
-30 x size
+| 6 Stone | 30 x size | 
 
-7 Iron
-35 x size
+| 7 Iron | 35 x size | 
 
-8 Kevlar
-40 x size
+| 8 Kevlar | 40 x size | 
 
 
 
