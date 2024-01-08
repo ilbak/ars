@@ -24,7 +24,7 @@ ANIMUS
 Knowledge, communication, perception and magical arts
 
 
-[NOTE] Note: To create more or less advanced characters, the Magister can grant a number of Creation Points higher or lower: 50 Weak, 100 Normal, 150 Expert, 200 Heroic.
+**[NOTE]** Note: To create more or less advanced characters, the Magister can grant a number of Creation Points higher or lower: 50 Weak, 100 Normal, 150 Expert, 200 Heroic.
 
 The initial concept of each character is the human, to modify the race we use the sacrifice of  *10 Creation Points to obtain a capacity known in nature * (or change in size or material) or  *20 Creation Points to obtain supernatural power *. With the same system it is possible to accumulate racial faults that add up Creation Points instead of sacrificing them.
 The player then notes the rumors: in Points Hit (damage beyond which the character leaves the scene irretrievably) the value of Size x Material (200 in the case of a common human).
@@ -32,7 +32,7 @@ In Movement (spaces that can be traveled in an action, where a "space" is equa
 Range (eg with ranged weapons or spell) the Celeritas value x 2 and divided 10.
 Initial money the value of Animus x 5 and divided 10. Mana (total power reserve) the value of Animus x 3 and divided 10 .
 
-[EXAMPLE] Example: Francesca imagines Elikki, her character, agile and intelligent. So he begins to fill out the card by assigning 20% ​​to Corpus Attitude: Elikki will therefore have 40 hit points. Francesca notes 40% as a value to Elikki's Celeritas Attitude. So in a game action you can move 4 spaces (8 meters). Running (and then using the entire turn) Elikki will travel 12 spaces (24 meters). Francesca gives Elikki 40% in Animus, Elikki at the beginning of the game will have 20 denari and 12 points Mana.
+**[EXAMPLE]** Example: Francesca imagines Elikki, her character, agile and intelligent. So he begins to fill out the card by assigning 20% ​​to Corpus Attitude: Elikki will therefore have 40 hit points. Francesca notes 40% as a value to Elikki's Celeritas Attitude. So in a game action you can move 4 spaces (8 meters). Running (and then using the entire turn) Elikki will travel 12 spaces (24 meters). Francesca gives Elikki 40% in Animus, Elikki at the beginning of the game will have 20 denari and 12 points Mana.
 
 
 ## 2. The Arts
@@ -41,7 +41,7 @@ The player defines the Arts his character possesses relative to each Attitude an
 Except for simple actions (jumping, swimming, etc.) the Arts are composed of a verb and an argument , such as "Driving cars" or "Knowing history".
 A character can use an Art in place of another that has the same subject, in this case the percentage of Art used will have a half value.
 
-[EXAMPLE] Tuko is a cowboy traveling on his horse when suddenly the animal does not seem well. Not having the specific Art uses its 20% use of Horses [D] as 10% of Knowledge horses [M] and try the action with a shot based on the Animus attitude.
+**[EXAMPLE]** Tuko is a cowboy traveling on his horse when suddenly the animal does not seem well. Not having the specific Art uses its 20% use of Horses **[D]** as 10% of Knowledge horses **[M]** and try the action with a shot based on the Animus attitude.
 
 During the game the character can also learn from other characters the Arts that they possess with a minimum value of 20%: Beginning a period of apprenticeship in which he performs a trial in Animus for each hour of teaching. Once the test is successful, the character and his teacher spend 20% of the percentage of experience and the character can acquire the art learned with an initial value of 5%.
 Table with examples of Arts divided by Attitudes:
@@ -63,11 +63,11 @@ Knowledge, communication, perception and magical arts
 Examples:Listening Searching Knowledge (subject) Diplomacy Entertaining with (subject) Language (language) Watching Beaming
 
 
-[EXAMPLE] Francesca imagines that Elikki is not a great warrior but has learned self defense with the use of knives, so under the Attitude Corpus notes "Attack in Melee with knives".
+**[EXAMPLE]** Francesca imagines that Elikki is not a great warrior but has learned self defense with the use of knives, so under the Attitude Corpus notes "Attack in Melee with knives".
 
 When the character finds himself having to use his abilities for an action that can give him advantages or disadvantages in the story (fight, use, search ...) the Magister can ask for a proof of relative aptitude by pulling player 1 die of 100 (2 dice of 10 for tens and units): If the result is equal to or less than the value of the Attitude (and possible Art or additional bonus) used the test succeeds, otherwise it fails.The result of 1 ( critical positive ) is the automatic success of the action, instead 100 is the disastrous failure ( negative critic ). In the case of a successful test the number of successes to the testis the difference between the value used in the test (Attitude with any Art, bonus and malus) and the result obtained at the die roll. Successes represent the effectiveness of the test performed. In the combat testsevery success accumulates a hit point inflicted. In distance tests (with targets beyond spaces adjacent to the occupied one) every space beyond the range value accumulates a -10 penalty to the test. In all actions that need to hit a goal , the character will have a bonus of 10% for every two major sizes that has the goal compared to his own, otherwise a malus of 10% for every two minor sizes. In a competitive action between charactersthe character who gets the most hits wins. In a cooperative action in aid of an action attempted by another character within the previous round, he adds half of the successes or failures obtained to those of the character who first undertook the action.
 
-[EXAMPLE] Elikki attacks an opponent using 20% ​​Corpus Attitude, 20% Art "Melee Attack with Knives" and 5% bonus of his dagger. At the roll of 100 the result is 20, so he gets 25 hits and inflicts 25 points of injury to the opponent.
+**[EXAMPLE]** Elikki attacks an opponent using 20% ​​Corpus Attitude, 20% Art "Melee Attack with Knives" and 5% bonus of his dagger. At the roll of 100 the result is 20, so he gets 25 hits and inflicts 25 points of injury to the opponent.
 
 
  
@@ -92,11 +92,11 @@ The game ends with the death of the characters or success in their business.
 
 Weapons and tools within the game add a bonus to an Art they are associated with. For each value of your size an object can accumulate a + 5% bonus. Each object can grant a maximum total bonus equal to the value that increases and requires an action to be worn or moved .
 
-[EXAMPLE] A sword of size 4 will have the possibility to contain a maximum of 4 + 5% perfections. So you can give a minimum of + 5% (in the case of a poor sword with the value of 5 denari) at most a + 20% in Melee Attack with swords [C] (in the case of a perfect 20-dwarf sword) .
+**[EXAMPLE]** A sword of size 4 will have the possibility to contain a maximum of 4 + 5% perfections. So you can give a minimum of + 5% (in the case of a poor sword with the value of 5 denari) at most a + 20% in Melee Attack with swords **[C]** (in the case of a perfect 20-dwarf sword) .
 
 Using an object of any size other than the two sizes below your own, accumulate a malus of -10% for each size difference between that of the character and that of the object. The character can grasp objects with several hands , decreasing by 10% for each additional hand or support the malus from difference in size.
 
-[EXAMPLE] El Razid uses a halberd of size 7, despite being a character of size 5. The difference of 2 sizes accumulates a 20% malus on tests with the halberd. To mitigate this malus takes the two-handed weapon, bringing the malus -10% to the test.
+**[EXAMPLE]** El Razid uses a halberd of size 7, despite being a character of size 5. The difference of 2 sizes accumulates a 20% malus on tests with the halberd. To mitigate this malus takes the two-handed weapon, bringing the malus -10% to the test.
 
 The protections increase the armor value , extra hit points that are consumed before the character's basic hit points are exhausted. The spells convert mana in fact, as indicated in their description. Value of the equipment is 10 deniers each: + 10% bonus / hit points that deals or care / turn of magic effect granted / 1 extra space in which its action takes effect. If it is mono-use the value is halved.
 
@@ -156,7 +156,7 @@ To obtain the size compare the value of the space with the parameters shown in t
 
 Beyond size 8 it is possible to obtain an infinite number of sizes, which increase with each square meter occupied by the subject and maintain a flow equal to the space occupied by the creature -1. In case of hollow objects or that do not completely cover the space of their size, the value of the size must be halved.
 
-[EXAMPLE] A metal block of 1 meter by 1 will have size 5. If it were a hollow trunk, however, its would be considered half-size then 2 for the calculation of hit points.
+**[EXAMPLE]** A metal block of 1 meter by 1 will have size 5. If it were a hollow trunk, however, its would be considered half-size then 2 for the calculation of hit points.
 
 The material derives from the hardness of the subject and is compared with the following table which shows the multiplier useful for the calculation of the hit points (if the material considered is not in the list use a material of similar hardness, in the case of objects composed of different materials are calculated according to the prevailing material):
 
@@ -189,4 +189,4 @@ The material derives from the hardness of the subject and is compared with the 
 
 
 
-[EXAMPLE] If an average human has hit points of 20 (organic material) x 5 (average size), Komo is an iron android in size 6. His hit points will be equal to 35 (iron) x 6 (size).
+**[EXAMPLE]** If an average human has hit points of 20 (organic material) x 5 (average size), Komo is an iron android in size 6. His hit points will be equal to 35 (iron) x 6 (size).

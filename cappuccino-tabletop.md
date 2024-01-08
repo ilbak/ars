@@ -10,7 +10,7 @@ A player (author of the "plot" of the story and game referee) plays the role of 
 The character is created starting from  *5 Key Phrases * representing  *his Arts * : knowledge that he has acquired and in which he has trained using time.
 These Key phrases can be noted on the card of your character by defining which is the phrase that most distinguishes him and the topics in which he is a teacher, a good connoisseur or of whom he is a beginner.
 
-[EXAMPLE] Luke is a farmer who has devoted his time to piloting space ships with a group of rebels who oppose the imperial system. He has trained in the use of mystical arts and combat with lightsabers with a hermit.
+**[EXAMPLE]** Luke is a farmer who has devoted his time to piloting space ships with a group of rebels who oppose the imperial system. He has trained in the use of mystical arts and combat with lightsabers with a hermit.
 For the character of Luke we will define the Key phrases:
 "I try to pilot along the route of this star map"
 "Target under target, space ship ready to shoot ... Fire!"
@@ -23,12 +23,12 @@ Once used  *the same Key Sentence CAN NOT be repeated * before before at least 3
  *The Key Sentence must be plausible * in the context and in the dialogue in which it is used, respecting the climate of the scene and the sense of dialogue.
 Once  *the Keyword has been declared, * the player can describe the  *direct consequence of * using the pronounced Key Phrase.
 
-[EXAMPLE] Luke finds himself having to escape a trap from one of the Imperial Guards.
+**[EXAMPLE]** Luke finds himself having to escape a trap from one of the Imperial Guards.
 Luca (the player who moves Luke) chooses to use the Key phrase "You will not escape the sword of my sword ... On guard!" and as a consequence he describes "with my slash I hit and knock my opponent to the ground." in this way he can escape to his spaceship.
 Once there he uses the phrase "I try to pilot along the route of this star chart" to get to safety via the spacecraft.
 
 
-[NOTE] It can be very convenient to write each Key Sentence on a playing card or a sheet to put in front of if rotating 90 degrees after the phrase has been used is at the beginning of each game turn: in this way it will be easier to keep present the Key Phrases available and the number of shifts necessary so that they can be reused.
+**[NOTE]** It can be very convenient to write each Key Sentence on a playing card or a sheet to put in front of if rotating 90 degrees after the phrase has been used is at the beginning of each game turn: in this way it will be easier to keep present the Key Phrases available and the number of shifts necessary so that they can be reused.
 
 Each character has at his disposal  *5 states of health * : Perfect (initial state), tried, painful, dying and defeated. When he suffers damage, he "loses" a state of health, coming to the last state of health is defeated and then forced to leave the scene. Through appropriate treatment interpreted at stake the state of health can be recovered one degree at a time.
 

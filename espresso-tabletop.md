@@ -27,11 +27,11 @@ Knowledge, communication, perception and magical arts
 
 
 
-[NOTE]  Note: To create more or less advanced characters, the Magister can grant a number of Creation Points higher or lower: 5 Weak, 10 Normal, 15 Expert, 20 Heroic.
+**[NOTE]**  Note: To create more or less advanced characters, the Magister can grant a number of Creation Points higher or lower: 5 Weak, 10 Normal, 15 Expert, 20 Heroic.
 
 The player then notes the rumors:  *Total Hit Points *  (number of damage beyond which the character dies when exiting the game) the value of Corpus x 2. In  *Movement * (spaces that can be passed in an action) the value of Celeritas.  *Range *  (with ranged weapons or actions) the Celeritas value x 2. Initial  *money * the value of Animus x 5.  *Mana *  (total magic power reserve) the value of Animus x 3.
 
-[EXAMPLE] Example: Luca creates his character: "Rogar is a warrior who lives by expedients and travels the world." It will mark on its board: 5 Corpus, 3 Celeritas, 2 Animus. 10 hit points, 10 load, 3 movement, 6 throw, 25 initial denials and 6 mana.
+**[EXAMPLE]** Example: Luca creates his character: "Rogar is a warrior who lives by expedients and travels the world." It will mark on its board: 5 Corpus, 3 Celeritas, 2 Animus. 10 hit points, 10 load, 3 movement, 6 throw, 25 initial denials and 6 mana.
 
 
 
@@ -41,7 +41,7 @@ When the player wants to use the skills of his character for an action that can 
 At a test of Attitude the result of 1 (called  *positive critic * ) is the automatic success of the action, 10 is the disastrous failure (  *negative critic * ). The  *number of successes to the test *  is the difference between the value used in the test (with any bonuses) and the result of the dice.
 Successes represent the effectiveness of the test performed: in  *combat tests *  the number of hits will be the number of hit points inflicted on the opponent. In  *remote tests *  (with targets beyond spaces adjacent to the occupied one) every space beyond the value of the Range  *accumulates a -1 malus to the test * . In the  *research tests *  (based on Animus Attitude) it is the number of spaces surrounding oneself in which the character reveals any clues or secrets. In a  *competitive action * between characters wins the character that gets more hits. In a  *cooperative action *, with another character sum up half of the successes or failures obtained to those of the character who was the first to take the action.
 
-[EXAMPLE] Rogar uses his Animus 2 Attitude to search around him. Luca rolls the dice and gets 1. Being 1 of the dice below 2 of the value used, the action succeeds with 1 success. Indicates to the Magister the space in which he will detect clues, secrets or traps.
+**[EXAMPLE]** Rogar uses his Animus 2 Attitude to search around him. Luca rolls the dice and gets 1. Being 1 of the dice below 2 of the value used, the action succeeds with 1 success. Indicates to the Magister the space in which he will detect clues, secrets or traps.
 
 
 
@@ -50,11 +50,11 @@ Successes represent the effectiveness of the test performed: in  *combat tests *
  *Value of the equipment *  is generically attributable to 10 deniers each: +1 bonus / hit point that deals or care / turn of magic effect granted / 1 extra meter in which its action takes effect. If it is mono-use the value is halved.
 The equipment grants a  *maximum *  total  *bonus * equal to the value that the character increases. Each object requires an action to  *be put, removed or moved * .
 
-[EXAMPLE] Rogar has a sword that gives +2 to the attack. Having 5 in Corpus Attitude, once equipped will have 7 in melee attack trials. Perform an attack test against an enemy that has an armor value of 3. The dice rolls 2. Then he has 5 hits on the roll, 3 of which are subtracted from the armor and 2 from the opponent's hit points.
+**[EXAMPLE]** Rogar has a sword that gives +2 to the attack. Having 5 in Corpus Attitude, once equipped will have 7 in melee attack trials. Perform an attack test against an enemy that has an armor value of 3. The dice rolls 2. Then he has 5 hits on the roll, 3 of which are subtracted from the armor and 2 from the opponent's hit points.
 
 
 
 ## 4. The game
 The game round takes place starting from the character with the highest Celeritas.  *In each turn each character has at his disposal 3 actions *  of which he accumulates a  *penalty of -2 the second action and -3 the third * . The player can also choose to  *keep third and possibly also second action * (with relative malus) to use them within the next turn. It is possible to skip the turn (  *rest * ) by sacrificing the 3 actions and thus recovering the value of Corpus divided 3 into Hit Points and Animus divided by 3 into Mana.  *The game ends * with the death of the characters or success in their business.
 
-[EXAMPLE] Rogar is in a combat phase and uses in his first round his 3 actions to attack: he will perform his first melee attack test with the value of 7 (Corpus 5 + 2 bonus given by the sword as seen in the previous example ), in the second action the value of 5 and in the third of 3. In the second round he decides to keep his third action, so in the third round he can perform an extra action with the -3 penalty of the previous round.
+**[EXAMPLE]** Rogar is in a combat phase and uses in his first round his 3 actions to attack: he will perform his first melee attack test with the value of 7 (Corpus 5 + 2 bonus given by the sword as seen in the previous example ), in the second action the value of 5 and in the third of 3. In the second round he decides to keep his third action, so in the third round he can perform an extra action with the -3 penalty of the previous round.
