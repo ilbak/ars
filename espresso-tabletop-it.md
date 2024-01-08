@@ -17,7 +17,7 @@ Forza fisica, resistenza e attacco corpo a corpo.
 <img src="https://i.imgur.com/7hpixK6.png" style="margin-top:30px;"> **CELERITAS**
 Velocità, precisione, utilizzo di strumenti e attacco a distanza.
 
-<img src="https://i.imgur.com/vkP4lCL.png" style="margin-top:30px;"> ** ANIMUS ** 
+<img src="https://i.imgur.com/vkP4lCL.png" style="margin-top:30px;"> **ANIMUS** 
 Conoscenza, comunicazione, percezione e arti magiche.
 
 **[NOTA]** Per creare personaggi più o meno avanzati, il Magister può concedere un numero di Punti di Creazione maggiore o minore: 5 per i Deboli, 10 per i Normali, 15 per gli Esperti e 20 per gli Eroici.
