@@ -6,10 +6,7 @@
 A player (author of the "plot" of the story and game referee) plays the role of the  *Magister * following and telling the development of the narration. So that everything is not just a fanciful hyperbole, it is customary to use a game regulation that defines parameters and limits to game situations.
 *ARS Cappuccino * is dedicated to the narrative game, deliberately light and little aimed at realism in favor of the taste of the players to create more compelling stories that likely, ideal for young players.
 
-
-
-
-1. The character
+## 1. The character
 The character is created starting from  *5 Key Phrases * representing  *his Arts * : knowledge that he has acquired and in which he has trained using time.
 These Key phrases can be noted on the card of your character by defining which is the phrase that most distinguishes him and the topics in which he is a teacher, a good connoisseur or of whom he is a beginner.
 
@@ -36,12 +33,12 @@ Once there he uses the phrase "I try to pilot along the route of this star chart
 Each character has at his disposal  *5 states of health * : Perfect (initial state), tried, painful, dying and defeated. When he suffers damage, he "loses" a state of health, coming to the last state of health is defeated and then forced to leave the scene. Through appropriate treatment interpreted at stake the state of health can be recovered one degree at a time.
 
 
-2. The Equipment
- *Weapons and tools * within the game are used to activate Key Phrases. They can be annotated on the card of your character or more conveniently represented with playing cards. Each object requires an action to be  *put, removed or moved * .
+## 2. The Equipment
+ *Weapons and tools* within the game are used to activate Key Phrases. They can be annotated on the card of your character or more conveniently represented with playing cards. Each object requires an action to be  *put, removed or moved*.
 
 
-3. The Game
+## 3. The Game 
 Once the characters are prepared, they sit around the table and the Magister introduces the initial scene in which the characters will move. The  *order of play * begins and ends with the Magister following the players clockwise. The Magister in his turn is responsible for describing the game scene and interpreting any "extras" in the story.
- *During his turn each player has at his disposal three actions * that he can use to move his character, move the objects around him or in the inventory and use the key phrases to change the story.
+*During his turn each player has at his disposal three actions* that he can use to move his character, move the objects around him or in the inventory and use the key phrases to change the story.
 In case of generic tests that are not part of an Art available to the character, the Magister can make a  *"Fate test" * : a simple question is asked and a 10 die is rolled. If the die result is equal to or less than 5 the answer to the question will be positive, otherwise negative.The Magister can increase or decrease the difficulty of proof of a value for each factor in favor or disfavour of the question asked.
 The  *game ends * with the resolution of the story in a happy ending or with the defeat of the main characters.
