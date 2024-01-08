@@ -5,22 +5,22 @@
 The fast line. Only the three Attitudes for fast sessions and board games. 
 
 
-A  *role-playing game* is a theatrical improvisation in which each player interprets a character of the story for the simple pleasure of interpreting it and writing together the best possible story (concept of de interpretatio).
+A *role-playing game* is a theatrical improvisation in which each player interprets a character of the story for the simple pleasure of interpreting it and writing together the best possible story (concept of de interpretatio).
 A player (author of the "plot" of the story and game referee) plays the role of the  *Magister* following and telling the development of the narration. So that everything is not just a fanciful hyperbole, it is customary to use a game regulation that defines parameters and limits to game situations.
 *ARS Espresso* is an ultra-light regulation that wants to bring the role play to the simplicity and speed of the board game. This manual presents basic mechanics ready for the game and which, depending on the settings, can be expanded at will.
 
 
 
 ## 1. The character
-Each player  *creates his character by dividing 10 Creation Points * from the following three Attitudes and annotating them on his character sheet, each with  *a minimum value of 1 and a maximum of 8 *:
+Each player *creates his character by dividing 10 Creation Points* from the following three Attitudes and annotating them on his character sheet, each with  *a minimum value of 1 and a maximum of 8 *:
  
-**CORPUS**
+<img src = "https://i.imgur.com/sfUTZJE.png" style="margin-top:30px;"> **CORPUS** 
 Physical strength, endurance and melee attack
 
-**CELERITAS**
+<img src = "https://i.imgur.com/7hpixK6.png" style="margin-top:30px;"> **CELERITAS**
 Speed, precision, instrument use and distance attack
 
-**ANIMUS**
+<img src = "https://i.imgur.com/vkP4lCL.png" style="margin-top:30px;"> ** ANIMUS ** 
 Knowledge, communication, perception and magical arts
 
 

@@ -11,9 +11,14 @@ Un giocatore (autore della "trama" della storia e arbitro del gioco) interpreta 
 ## 1. Il Personaggio
 Ogni giocatore *crea il proprio personaggio dividendo 10 Punti di Creazione* dalle seguenti tre Attitudini e annotandoli sul proprio foglio del personaggio, ognuno con *un valore minimo di 1 e massimo di 8*:
 
-- CORPUS: Forza fisica, resistenza e attacco corpo a corpo.
-- CELERITAS: Velocità, precisione, utilizzo di strumenti e attacco a distanza.
-- ANIMUS: Conoscenza, comunicazione, percezione e arti magiche.
+<img src = "https://i.imgur.com/sfUTZJE.png" style="margin-top:30px;"> **CORPUS**
+Forza fisica, resistenza e attacco corpo a corpo.
+
+<img src = "https://i.imgur.com/7hpixK6.png" style="margin-top:30px;"> **CELERITAS**
+Velocità, precisione, utilizzo di strumenti e attacco a distanza.
+
+<img src = "https://i.imgur.com/vkP4lCL.png" style="margin-top:30px;"> ** ANIMUS ** 
+Conoscenza, comunicazione, percezione e arti magiche.
 
 **[NOTA]** Per creare personaggi più o meno avanzati, il Magister può concedere un numero di Punti di Creazione maggiore o minore: 5 per i Deboli, 10 per i Normali, 15 per gli Esperti e 20 per gli Eroici.
 
