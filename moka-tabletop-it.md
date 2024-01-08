@@ -64,12 +64,18 @@ Quando il personaggio si trova a dover utilizzare le sue abilità per un'azione 
 
 Riferimenti in percentuale dell'Arte e rispettivi livelli di conoscenza:
 
+
 | Principiante | 20%  | 
+
 | Discreto     | 40%  | 
+
 | Buono        | 60%  | 
+
 | Esperto      | 80%  | 
+
 | Maestro      | 100% | 
- 
+
+
 ## 3. Il Gioco
 
 Il round di gioco inizia con il Magister che descrive la scena della storia e ha luogo dal personaggio con la Celeritas più alta. Ad ogni turno, ogni personaggio ha a disposizione 3 azioni, per le quali si accumula una penalità del -20% per la seconda azione e del -30% per la terza. È possibile saltare il turno (riposo) sacrificando le 3 azioni e recuperando così il valore del Corpus diviso 3 in Punti Ferita e dell'Animus diviso 3 in Mana. Il gioco termina con la morte dei personaggi o il successo nei loro affari.
