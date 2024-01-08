@@ -11,22 +11,26 @@ Un giocatore (autore della "trama" della storia e arbitro del gioco) interpreta 
 ## 1. Il Personaggio
 Ogni giocatore *crea il proprio personaggio dividendo 10 Punti di Creazione* dalle seguenti tre Attitudini e annotandoli sul proprio foglio del personaggio, ognuno con *un valore minimo di 1 e massimo di 8*:
 
-<img src = "https://i.imgur.com/sfUTZJE.png" style="margin-top:30px;"> **CORPUS**
+<img src="https://i.imgur.com/sfUTZJE.png" style="margin-top:30px;"> **CORPUS**
 Forza fisica, resistenza e attacco corpo a corpo.
 
-<img src = "https://i.imgur.com/7hpixK6.png" style="margin-top:30px;"> **CELERITAS**
+<img src="https://i.imgur.com/7hpixK6.png" style="margin-top:30px;"> **CELERITAS**
 Velocità, precisione, utilizzo di strumenti e attacco a distanza.
 
-<img src = "https://i.imgur.com/vkP4lCL.png" style="margin-top:30px;"> ** ANIMUS ** 
+<img src="https://i.imgur.com/vkP4lCL.png" style="margin-top:30px;"> ** ANIMUS ** 
 Conoscenza, comunicazione, percezione e arti magiche.
 
 **[NOTA]** Per creare personaggi più o meno avanzati, il Magister può concedere un numero di Punti di Creazione maggiore o minore: 5 per i Deboli, 10 per i Normali, 15 per gli Esperti e 20 per gli Eroici.
 
 Il giocatore annota quindi:
 - *Punti Ferita Totali* (numero di danni oltre i quali il personaggio muore uscendo dal gioco) come valore di Corpus x 2.
+
 - *Movimento* (spazi attraversabili in un'azione) come valore di Celeritas.
+
 - *Gittata* (applicabile con armi o azioni a distanza) come valore di Celeritas x 2.
+
 - *Denaro Iniziale* come valore di Animus x 5.
+
 - *Mana* (riserva totale di potere magico) come valore di Animus x 3.
 
 **[ESEMPIO]** Luca crea il suo personaggio, Rogar, un guerriero che vive di espedienti e viaggia per il mondo. Sul suo foglio del personaggio annota: 5 Corpus, 3 Celeritas, 2 Animus. Questo si traduce in 10 punti ferita, 3 spazi di movimento, 6 spazi di gittata, 25 denari iniziali e 6 mana.

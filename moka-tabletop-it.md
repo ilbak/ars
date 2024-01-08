@@ -11,13 +11,13 @@ Un  *gioco di ruolo* è un'interpretazione teatrale in cui ogni giocatore interp
 Ogni giocatore crea il proprio personaggio dividendo  *100 Punti di Creazione* tra le seguenti  *tre percentuali di Attitudini* ( *ciascuna con un valore minimo del 10% e massimo dell'80%* ) e le annota sul foglio del personaggio:
 
  
-<img src = "https://i.imgur.com/sfUTZJE.png" style="margin-top:30px;">CORPUS
+<img src="https://i.imgur.com/sfUTZJE.png" style="margin-top:30px;">CORPUS
 Forza fisica, resistenza e attacco corpo a corpo
 
-<img src = "https://i.imgur.com/7hpixK6.png" style="margin-top:30px;">CELERITAS
+<img src="https://i.imgur.com/7hpixK6.png" style="margin-top:30px;">CELERITAS
 Velocità, precisione, uso di strumenti e attacco a distanza
 
-<img src = "https://i.imgur.com/vkP4lCL.png" style="margin-top:30px;">ANIMUS
+<img src="https://i.imgur.com/vkP4lCL.png" style="margin-top:30px;">ANIMUS
 Conoscenza, comunicazione, percezione e arti magiche
 
 

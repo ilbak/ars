@@ -14,13 +14,13 @@ A player (author of the "plot" of the story and game referee) plays the role of 
 ## 1. The character
 Each player *creates his character by dividing 10 Creation Points* from the following three Attitudes and annotating them on his character sheet, each with  *a minimum value of 1 and a maximum of 8 *:
  
-<img src = "https://i.imgur.com/sfUTZJE.png" style="margin-top:30px;"> **CORPUS** 
+<img src="https://i.imgur.com/sfUTZJE.png" style="margin-top:30px;"> **CORPUS** 
 Physical strength, endurance and melee attack
 
-<img src = "https://i.imgur.com/7hpixK6.png" style="margin-top:30px;"> **CELERITAS**
+<img src="https://i.imgur.com/7hpixK6.png" style="margin-top:30px;"> **CELERITAS**
 Speed, precision, instrument use and distance attack
 
-<img src = "https://i.imgur.com/vkP4lCL.png" style="margin-top:30px;"> ** ANIMUS ** 
+<img src="https://i.imgur.com/vkP4lCL.png" style="margin-top:30px;"> ** ANIMUS ** 
 Knowledge, communication, perception and magical arts
 
 

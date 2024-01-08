@@ -48,17 +48,17 @@ Table with examples of Arts divided by Attitudes:
 
 
  
-<img src = "https://i.imgur.com/sfUTZJE.png" style="margin-top:30px;"> ** CORPUS **
+<img src="https://i.imgur.com/sfUTZJE.png" style="margin-top:30px;"> ** CORPUS **
 Physical strength, create object, endurance and melee attack
 Apnea Attack Melee (weapon) Create (argument) Swim Resistance (argument) Jump Scalar
 
 
-<img src = "https://i.imgur.com/7hpixK6.png" style="margin-top:30px;"> ** CELERITAS **
+<img src="https://i.imgur.com/7hpixK6.png" style="margin-top:30px;"> ** CELERITAS **
 Speed, precision, tools and vehicles use and distance attack
 Acrobatics Attack Distance (weapon) Pickpocket Drive (vehicle) Move silently Hide Use (Object)
 
 
-<img src = "https://i.imgur.com/vkP4lCL.png" style="margin-top:30px;"> ** ANIMUS ** 
+<img src="https://i.imgur.com/vkP4lCL.png" style="margin-top:30px;"> ** ANIMUS ** 
 Knowledge, communication, perception and magical arts
 Examples:Listening Searching Knowledge (subject) Diplomacy Entertaining with (subject) Language (language) Watching Beaming
 
