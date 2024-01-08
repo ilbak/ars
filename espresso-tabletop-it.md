@@ -21,10 +21,10 @@ Il giocatore annota quindi:
 - *Punti Ferita Totali* (numero di danni oltre i quali il personaggio muore uscendo dal gioco) come valore di Corpus x 2.
 - *Movimento* (spazi attraversabili in un'azione) come valore di Celeritas.
 - *Gittata* (applicabile con armi o azioni a distanza) come valore di Celeritas x 2.
-- Denaro Iniziale come valore di Animus x 5.
+- *Denaro Iniziale* come valore di Animus x 5.
 - *Mana* (riserva totale di potere magico) come valore di Animus x 3.
 
-**[ESEMPIO]** Esempio: Luca crea il suo personaggio, Rogar, un guerriero che vive di espedienti e viaggia per il mondo. Sul suo foglio del personaggio annota: 5 Corpus, 3 Celeritas, 2 Animus. Questo si traduce in 10 punti ferita, 3 spazi di movimento, 6 spazi di gittata, 25 denari iniziali e 6 mana.
+**[ESEMPIO]** Luca crea il suo personaggio, Rogar, un guerriero che vive di espedienti e viaggia per il mondo. Sul suo foglio del personaggio annota: 5 Corpus, 3 Celeritas, 2 Animus. Questo si traduce in 10 punti ferita, 3 spazi di movimento, 6 spazi di gittata, 25 denari iniziali e 6 mana.
 
 ## 2. Attitudini
 Quando un giocatore desidera utilizzare le abilità del suo personaggio per un'azione che potrebbe avere vantaggi o svantaggi nella storia (combattere, usare strumenti, cercare, ecc.), deve effettuare un *test sull'Attitudine* relativa al tipo di azione intrapresa tirando un dado a 10 facce: se il risultato è uguale o inferiore al valore dell'Attitudine utilizzata (considerando anche eventuali bonus dati, ad esempio, dall'Equipaggiamento), il test ha successo, altrimenti fallisce.

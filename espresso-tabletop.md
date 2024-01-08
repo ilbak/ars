@@ -5,33 +5,31 @@
 The fast line. Only the three Attitudes for fast sessions and board games. 
 
 
-A  *role-playing game * is a theatrical improvisation in which each player interprets a character of the story for the simple pleasure of interpreting it and writing together the best possible story (concept of de interpretatio).
-A player (author of the "plot" of the story and game referee) plays the role of the  *Magister * following and telling the development of the narration. So that everything is not just a fanciful hyperbole, it is customary to use a game regulation that defines parameters and limits to game situations.
-*ARS Espresso * is an ultra-light regulation that wants to bring the role play to the simplicity and speed of the board game. This manual presents basic mechanics ready for the game and which, depending on the settings, can be expanded at will.
-
+A  *role-playing game* is a theatrical improvisation in which each player interprets a character of the story for the simple pleasure of interpreting it and writing together the best possible story (concept of de interpretatio).
+A player (author of the "plot" of the story and game referee) plays the role of the  *Magister* following and telling the development of the narration. So that everything is not just a fanciful hyperbole, it is customary to use a game regulation that defines parameters and limits to game situations.
+*ARS Espresso* is an ultra-light regulation that wants to bring the role play to the simplicity and speed of the board game. This manual presents basic mechanics ready for the game and which, depending on the settings, can be expanded at will.
 
 
 
 ## 1. The character
 Each player  *creates his character by dividing 10 Creation Points * from the following three Attitudes and annotating them on his character sheet, each with  *a minimum value of 1 and a maximum of 8 *:
-
  
-CORPUS
+**CORPUS**
 Physical strength, endurance and melee attack
 
-CELERITAS
+**CELERITAS**
 Speed, precision, instrument use and distance attack
 
-ANIMUS
+**ANIMUS**
 Knowledge, communication, perception and magical arts
 
 
 
 **[NOTE]**  Note: To create more or less advanced characters, the Magister can grant a number of Creation Points higher or lower: 5 Weak, 10 Normal, 15 Expert, 20 Heroic.
 
-The player then notes the rumors:  *Total Hit Points *  (number of damage beyond which the character dies when exiting the game) the value of Corpus x 2. In  *Movement * (spaces that can be passed in an action) the value of Celeritas.  *Range *  (with ranged weapons or actions) the Celeritas value x 2. Initial  *money * the value of Animus x 5.  *Mana *  (total magic power reserve) the value of Animus x 3.
+The player then notes the rumors:  *Total Hit Points*  (number of damage beyond which the character dies when exiting the game) the value of Corpus x 2. In  *Movement* (spaces that can be passed in an action) the value of Celeritas.  *Range*  (with ranged weapons or actions) the Celeritas value x 2. *Initial money* the value of Animus x 5.  *Mana*  (total magic power reserve) the value of Animus x 3.
 
-**[EXAMPLE]** Example: Luca creates his character: "Rogar is a warrior who lives by expedients and travels the world." It will mark on its board: 5 Corpus, 3 Celeritas, 2 Animus. 10 hit points, 10 load, 3 movement, 6 throw, 25 initial denials and 6 mana.
+**[EXAMPLE]** Luca creates his character: "Rogar is a warrior who lives by expedients and travels the world." It will mark on its board: 5 Corpus, 3 Celeritas, 2 Animus. 10 hit points, 10 load, 3 movement, 6 throw, 25 initial denials and 6 mana.
 
 
 
@@ -47,7 +45,7 @@ Successes represent the effectiveness of the test performed: in  *combat tests *
 
 ## 3. Equipment
  *Weapons and tools * within the game add a bonus to the Attitude to which they are associated (only in actions related to their use). The  *protections increase the armor value * : extra hit points that are consumed before the character's basic hit points are exhausted. The  *spells convert mana in fact * , as indicated in their description. Each character can  *carry a maximum number of items of equipment *  equal to the number of his current Hit Points.
- *Value of the equipment *  is generically attributable to 10 deniers each: +1 bonus / hit point that deals or care / turn of magic effect granted / 1 extra meter in which its action takes effect. If it is mono-use the value is halved.
+ *Value of the equipment*  is generically attributable to 10 deniers each: +1 bonus / hit point that deals or care / turn of magic effect granted / 1 extra meter in which its action takes effect. If it is mono-use the value is halved.
 The equipment grants a  *maximum *  total  *bonus * equal to the value that the character increases. Each object requires an action to  *be put, removed or moved * .
 
 **[EXAMPLE]** Rogar has a sword that gives +2 to the attack. Having 5 in Corpus Attitude, once equipped will have 7 in melee attack trials. Perform an attack test against an enemy that has an armor value of 3. The dice rolls 2. Then he has 5 hits on the roll, 3 of which are subtracted from the armor and 2 from the opponent's hit points.
@@ -55,6 +53,6 @@ The equipment grants a  *maximum *  total  *bonus * equal to the value that the 
 
 
 ## 4. The game
-The game round takes place starting from the character with the highest Celeritas.  *In each turn each character has at his disposal 3 actions *  of which he accumulates a  *penalty of -2 the second action and -3 the third * . The player can also choose to  *keep third and possibly also second action * (with relative malus) to use them within the next turn. It is possible to skip the turn (  *rest * ) by sacrificing the 3 actions and thus recovering the value of Corpus divided 3 into Hit Points and Animus divided by 3 into Mana.  *The game ends * with the death of the characters or success in their business.
+The game round takes place starting from the character with the highest Celeritas.  *In each turn each character has at his disposal 3 actions *  of which he accumulates a  *penalty of -2 the second action and -3 the third * . The player can also choose to  *keep third and possibly also second action * (with relative malus) to use them within the next turn. It is possible to skip the turn ( *rest* ) by sacrificing the 3 actions and thus recovering the value of Corpus divided 3 into Hit Points and Animus divided by 3 into Mana.  *The game ends * with the death of the characters or success in their business.
 
 **[EXAMPLE]** Rogar is in a combat phase and uses in his first round his 3 actions to attack: he will perform his first melee attack test with the value of 7 (Corpus 5 + 2 bonus given by the sword as seen in the previous example ), in the second action the value of 5 and in the third of 3. In the second round he decides to keep his third action, so in the third round he can perform an extra action with the -3 penalty of the previous round.

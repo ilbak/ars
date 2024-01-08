@@ -9,10 +9,10 @@ Il *gioco di ruolo dal vivo* è una grande improvvisazione teatrale in cui tutti
 ## 1.0 Sicurezza
 
 Regole di sicurezza da *rispettare assolutamente* durante il gioco:
- - È vietato qualsiasi tipo di contatto fisico.*
- - Gli attacchi alla testa e ai genitali sono proibiti in combattimento. Gli attacchi a frusta (cariche) e in carica (lancio con il peso del corpo contro l'avversario) sono vietati.*
- - Proibite armi reali o strumenti ritenuti pericolosi dal Magister. L'attrezzatura non in condizioni perfette deve essere consegnata al Magister e NON deve essere utilizzata.*
- - In qualsiasi momento ogni giocatore deve essere libero di dichiararsi "fuori dal gioco!" E, tenendo le mani in alto, lasciare il campo di gioco il più rapidamente possibile. Il personaggio "muore" con il giocatore che lascia la scena.*
+ *- È vietato qualsiasi tipo di contatto fisico.*
+ *- Gli attacchi alla testa e ai genitali sono proibiti in combattimento. Gli attacchi a frusta (cariche) e in carica (lancio con il peso del corpo contro l'avversario) sono vietati.*
+ *- Proibite armi reali o strumenti ritenuti pericolosi dal Magister. L'attrezzatura non in condizioni perfette deve essere consegnata al Magister e NON deve essere utilizzata.*
+ *- In qualsiasi momento ogni giocatore deve essere libero di dichiararsi "fuori dal gioco!" E, tenendo le mani in alto, lasciare il campo di gioco il più rapidamente possibile. Il personaggio "muore" con il giocatore che lascia la scena.*
 
 ## 2.0 Il gioco
 Il gioco inizia immaginando il nostro personaggio. Tenendo presente che dovremo interpretarlo per lungo tempo e che dovrà essere in linea con l'ambiente stabilito per l'evento. Un modo rapido per definirlo è scrivere il "background" una lettera in prima persona dove viene presentato con almeno tre frasi: la prima riguardante la sua origine, la seconda riguardante ciò che fa attualmente e l'ultima riguardante ciò che vuole ottenere. Il personaggio è definito dal suo background e dalle Arti, abilità in cui è particolarmente esperto e che esamineremo ulteriormente. L'equipaggiamento iniziale per ogni personaggio sarà 1 arma, 1 protezione, 1 strumento + 1 oggetto di scelta per ogni Arte acquisita. Di solito i background vengono consegnati prima dell'evento al Magister in modo che possa verificarli e integrarli nella storia, ma non è raro che sia lo stesso Magister a scrivere il background e ad assegnarli, per avere una storia più coerente o per incontrare i giocatori. Il Magister fornirà a ciascun giocatore un "foglio del personaggio" con tutte le informazioni e che sarà utilizzato in caso di controlli da parte dell'organizzazione.
@@ -42,7 +42,7 @@ ata e un raggio: il giocatore a cui è rivolto questo comando deve eseguirlo imm
 
 ## 3.0 Gioco Avanzato: Magia
 I personaggi che hanno l'Arte "Magia" ottengono una riserva di "Mana" che consente di utilizzare la chiamata "ARS!" In gioco a volontà. Ogni chiamata deve utilizzare almeno un punto Mana e più Mana può essere sacrificato per concentrarne gli effetti. La chiamata deve essere fatta in modo chiaro e ad alta voce, rivolta all'obiettivo a cui è indirizzata e consiste in tre parti, in questo modo:
-<div align="center"> *"ARS! **[Effetto]** **[Durata]** **[Distanza]**" *
+### *"ARS! **[Effetto]** **[Durata]** **[Distanza]**" *
  *"Effetto"* significa un ordine semplice (che non può essere scomposto in sotto-azioni) che l'obiettivo deve eseguire. Ogni incantesimo può avere SOLO UN effetto. *"Durata"* indica la durata in secondi che l'incantesimo deve avere. Ogni incantesimo ha una durata di 10 secondi e per ogni punto Mana che viene aggiunto può aumentare di 10 secondi. *"Distanza"* è la distanza entro cui l'incantesimo produce effetto. Ogni incantesimo ha una distanza minima di 5 metri e per ogni punto Mana che viene aggiunto può aumentare di 5 metri.
 
 **[ESEMPIO]** Francesca interpreta Lois, un'intelligente detective appassionata di occultismo. Inseguita da uno sciocco, Lois decide di coprire la fuga con un aiuto magico, rivolgendosi al personaggio avversario intimando: "ARS! Chiudi gli occhi per 10 secondi in 5 metri!" Sottrae un punto-Mana dal suo totale di cinque. Per essere sicura di non essere seguita invoca un secondo incantesimo: "ARS! Stai fermo per 20 secondi in 5 metri!" Sacrifica altri due punti-Mana e può riprendere la fuga.
@@ -52,9 +52,11 @@ La chiamata può anche avere l'effetto "Danno!" O "Cura!" In questo caso l'obiet
 Advanced Game: Master Cards
 I personaggi che possiedono l'Arte dei "cartelli Maestri" ottengono "cartelli Maestri" che possono essere posizionati sul terreno proprio come fanno coloro che usano il Magister per preparare la scena. Sono carte legate a un oggetto o a un punto del campo di gioco a vostra scelta, che all'esterno hanno una condizione per essere lette e all'interno una descrizione, un effetto e una durata che verranno imposti a chi li legge. La lettura della carta deve avvenire in un'azione consapevole del lettore ed è possibile sacrificare i cartelli bianchi per concentrarne gli effetti. Il contenuto di una carta maestra sarà:
 
-<div align="center"> *"**[Descrizione]** **[Effetto]** per **[Durata]**" *
+### " [Descrizione] [Effetto] per [Durata"
+
 *"Descrizione" * è facoltativa ma utile per aiutare il lettore a interpretare il cartello specificando, ad esempio, che il cartello rappresenta una trappola o che gli dà una sensazione di sollievo.  *"Effetto" * significa un ordine semplice (che non può essere decomposto in sotto-azioni) che il lettore deve eseguire. Ogni cartello può contenere SOLO UN effetto.  *"Durata" * indica la durata in secondi dell'effetto. Ogni cartello può contenere una base di 20 secondi e puoi aggiungere altri 20 secondi per ogni cartello extra che vuoi sacrificare. Il lettore dovrà strappare il cartello una volta letto, quindi avrà effetto solo una volta durante il gioco. Ogni carta maestra cura o cura 5 punti ferita base che aumentano di 2 per ogni carta aggiuntiva che viene sacrificata.
-**[ES: Giada interpreta Venusia, una sacerdotessa che decide di creare una pozione di cura da offrire ai suoi alleati: attaccherà su un flacone un cartello con la condizione "Mima di bere" e descrizione: "Pozione di cura! +5 punti ferita."]**
+
+**[ESEMPIO]** Giada interpreta Venusia, una sacerdotessa che decide di creare una pozione di cura da offrire ai suoi alleati: attaccherà su un flacone un cartello con la condizione "Mima di bere" e descrizione: "Pozione di cura! +5 punti ferita."]
 
 ## 4.0 Arti
 
