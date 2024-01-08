@@ -64,11 +64,11 @@ Quando il personaggio si trova a dover utilizzare le sue abilità per un'azione 
 
 Riferimenti in percentuale dell'Arte e rispettivi livelli di conoscenza:
 
-| Principiante | 20% | 
-| Discreto | 40% | 
-| Buono | 60% | 
-| Esperto | 80% | 
-| Maestro | 100% | 
+| Principiante | 20%  | 
+| Discreto     | 40%  | 
+| Buono        | 60%  | 
+| Esperto      | 80%  | 
+| Maestro      | 100% | 
  
 ## 3. Il Gioco
 
@@ -90,14 +90,14 @@ Le protezioni aumentano il valore dell'armatura, punti ferita extra che vengono 
 
 Nel gioco, ogni soggetto fisico ha una "dimensione" e un "materiale", da cui è possibile stabilire il numero di punti ferita: Moltiplicatore del materiale x Valore della dimensione. Se per un personaggio il termine dei punti ferita rappresenta la morte, per un oggetto rappresenterà uno stato di danneggiamento in cui è ora usurato e inutile. La dimensione deriva dallo spazio occupato dal soggetto e cambia anche il campo entro cui può compiere azioni a contatto. Per ottenere la dimensione si confronta il valore dello spazio con i parametri mostrati nella seguente tabella:
 
-| 1 Microscopica | 3 cm3 | 3 cm. | 
-| 2 Piccolissima | 10 cm3 | 10 cm. | 
-| 3 Ridotta | 25 cm3 |  25 cm. | 
-| 4 Piccola | 50 cm3 | 50 cm. | 
-| 5 Media | 1 m3 | 1 m. | 
-| 6 Grande | 2 m3 | 1 m. | 
-| 7 Molto grande | 3 m3 | 2 m. | 
-| 8 Gigantesca | 4 m3 | 3 m. | 
+ | 1 Microscopica | 3 cm3 | 3 cm. | 
+ | 2 Piccolissima | 10 cm3 | 10 cm. | 
+ | 3 Ridotta | 25 cm3 |  25 cm. | 
+ | 4 Piccola | 50 cm3 | 50 cm. | 
+ | 5 Media | 1 m3 | 1 m. | 
+ | 6 Grande | 2 m3 | 1 m. | 
+ | 7 Molto grande | 3 m3 | 2 m. | 
+ | 8 Gigantesca | 4 m3 | 3 m. | 
 
 
 Al di là della dimensione 8 è possibile ottenere un numero infinito di dimensioni, che aumentano con ogni metro quadrato occupato dal soggetto e mantengono un flusso uguale allo spazio occupato dalla creatura -1. Nel caso di oggetti cavi o che non coprono completamente lo spazio della loro dimensione, il valore della dimensione deve essere dimezzato.
