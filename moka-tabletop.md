@@ -1,4 +1,7 @@
-ARS Moka - v. 16.08 - www.ars-rpg.com
+# ARS Moka Tabletop
+## v. 16.08 - www.ars-rpg.com
+---
+
 The classic line. Attitudes and different arts for the most complete game.
 
 
@@ -7,7 +10,7 @@ A  *role-playing game * is a theatrical improvisation in which each player inter
 
 
 
-1. The character
+## 1. The character
 Each player creates his character by dividing  *100 Creation Points * between the following  *three percentages of Attitudes * (  *each with a minimum value of 10% and maximum of 80% *<span class=""> ) and annotates them on his character sheet:
 
  
@@ -32,7 +35,7 @@ Initial money the value of Animus x 5 and divided 10. Mana (total power rese
 [EXAMPLE] Example: Francesca imagines Elikki, her character, agile and intelligent. So he begins to fill out the card by assigning 20% ​​to Corpus Attitude: Elikki will therefore have 40 hit points. Francesca notes 40% as a value to Elikki's Celeritas Attitude. So in a game action you can move 4 spaces (8 meters). Running (and then using the entire turn) Elikki will travel 12 spaces (24 meters). Francesca gives Elikki 40% in Animus, Elikki at the beginning of the game will have 20 denari and 12 points Mana.
 
 
-2. The Arts
+## 2. The Arts
 There are skills in which the character has had a teaching and training, improving his chances of success: the Arts.
 The player defines the Arts his character possesses relative to each Attitude and annotates them on the card. The Arts must have a minimum value of 5% and initially their total total can not exceed the value of the Attitude to which they refer.
 Except for simple actions (jumping, swimming, etc.) the Arts are composed of a verb and an argument , such as "Driving cars" or "Knowing history".
@@ -77,7 +80,7 @@ Master: 100%
 
 
 
-3. The Game
+## 3. The Game
 
 The game round begins with the Magister who describes the scene of the story and takes place from the character with higher Celeritas.
 In each turn, each character has 3 actions at his disposal, of which he accumulates a penalty of -20% for the second action and -30% for the third. It is possible to skip the turn (rest) by sacrificing the 3 actions and thus recovering the value of Corpus divided 3 into Hit Points and Animus divided by 3 into Mana.
@@ -85,7 +88,7 @@ The game ends with the death of the characters or success in their business.
 
 
 
-4. The Equipment
+## 4. The Equipment
 
 Weapons and tools within the game add a bonus to an Art they are associated with. For each value of your size an object can accumulate a + 5% bonus. Each object can grant a maximum total bonus equal to the value that increases and requires an action to be worn or moved .
 
@@ -99,7 +102,7 @@ The protections increase the armor value , extra hit points that are consum
 
 
 
-5. Size and Material
+## 5. Size and Material
 
 Within the game each physical subject has a "size" and a "material", from which it is possible to establish the number of hit points: Multiplier of the material x Value of the size.
 If for a character the end of the hit points represents death, for an object it will represent that state of damage in which it is now worn out and useless.

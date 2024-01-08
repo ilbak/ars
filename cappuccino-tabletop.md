@@ -1,4 +1,6 @@
-ARS Cappuccino - v. 16.08 - www.ars-rpg.com
+# ARS Cappuccino
+## v. 16.08 - www.ars-rpg.com
+---
 
 *A role-playing game * is a theatrical improvisation in which each player play a character of the story for the simple pleasure of interpreting it and writing together the best possible story (concept of de interpretatio).
 A player (author of the "plot" of the story and game referee) plays the role of the  *Magister * following and telling the development of the narration. So that everything is not just a fanciful hyperbole, it is customary to use a game regulation that defines parameters and limits to game situations.

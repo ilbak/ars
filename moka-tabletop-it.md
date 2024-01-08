@@ -1,10 +1,13 @@
-ARS Moka - v. 16.08 - www.ars-rpg.com
+# ARS Moka Tabletop
+## v. 16.08 - www.ars-rpg.com
+---
+
 La linea classica. Attitudini e differenti arti per il gioco più completo.
 
 Un  *gioco di ruolo* è un'interpretazione teatrale in cui ogni giocatore interpreta un personaggio della storia per il semplice piacere di interpretarlo e scrivere insieme la miglior storia possibile (concetto di de interpretatio). Un giocatore (autore della "trama" della storia e arbitro del gioco) interpreta il ruolo del Magister, seguendo e raccontando lo sviluppo della narrazione. Affinché tutto non sia solo un enfatico iperbole, è consuetudine utilizzare un regolamento di gioco che definisca parametri e limiti delle situazioni di gioco.
 *ARS Moka* è un regolamento leggero che permette di definire ogni elemento del gioco con caratteristiche uniche e complete, al fine di ricreare in modo credibile un universo bilanciato in cui ogni personaggio e oggetto ha specificità.
 
-1. Il personaggio
+## 1. Il personaggio
 Ogni giocatore crea il proprio personaggio dividendo  *100 Punti di Creazione* tra le seguenti  *tre percentuali di Attitudini* ( *ciascuna con un valore minimo del 10% e massimo dell'80%* ) e le annota sul foglio del personaggio:
 
  
@@ -28,7 +31,7 @@ Denaro iniziale il valore di Animus moltiplicato per 5 e diviso per 10.  *Mana* 
 
 [ESEMPIO] Esempio: Francesca immagina Elikki, il suo personaggio, agile e intelligente. Inizia a compilare il foglio assegnando il 20% all'Attitudine Corpus: Elikki avrà quindi 40 punti ferita. Francesca annota il 40% come valore dell'Attitudine Celeritas di Elikki. Quindi in un'azione di gioco può muoversi di 4 spazi (8 metri). Correndo (e quindi usando l'intero turno) Elikki si muoverà di 12 spazi (24 metri). Francesca attribuisce il 40% in Animus a Elikki, quindi all'inizio del gioco avrà 20 denari e 12 punti di Mana.
 
-2. Le Arti
+## 2. Le Arti
 Ci sono competenze in cui il personaggio ha avuto insegnamento e addestramento, migliorando le sue possibilità di successo: le Arti.
 Il giocatore definisce le Arti possedute dal proprio personaggio relative a ciascuna Attitudine e le annota sul foglio. Le Arti devono avere un valore minimo del 5% e inizialmente il loro totale non può superare il valore dell'Attitudine a cui si riferiscono.
 A parte azioni semplici (saltare, nuotare, ecc.), le Arti sono composte da un verbo e un argomento, come "Guidare auto" o "
@@ -66,11 +69,11 @@ Buono: 60%
 Esperto: 80%
 Maestro: 100%
 
-3. Il Gioco
+## 3. Il Gioco
 
 Il round di gioco inizia con il Magister che descrive la scena della storia e ha luogo dal personaggio con la Celeritas più alta. Ad ogni turno, ogni personaggio ha a disposizione 3 azioni, per le quali si accumula una penalità del -20% per la seconda azione e del -30% per la terza. È possibile saltare il turno (riposo) sacrificando le 3 azioni e recuperando così il valore del Corpus diviso 3 in Punti Ferita e dell'Animus diviso 3 in Mana. Il gioco termina con la morte dei personaggi o il successo nei loro affari.
 
-4. L'Equipaggiamento
+## 4. L'Equipaggiamento
 
 Armi e strumenti nel gioco aggiungono un bonus a un'Arte con cui sono associati. Per ogni valore della tua dimensione un oggetto può accumulare un bonus del +5%. Ogni oggetto può concedere un bonus totale massimo uguale al valore che aumenta e richiede un'azione per essere indossato o spostato.
 
@@ -82,7 +85,7 @@ Utilizzando un oggetto di qualsiasi dimensione diversa dalle due dimensioni sott
 
 Le protezioni aumentano il valore dell'armatura, punti ferita extra che vengono consumati prima che i punti ferita base del personaggio siano esauriti. Gli incantesimi convertono il mana in effetti, come indicato nella loro descrizione. Il valore dell'equipaggiamento è di 10 denari ciascuno: +10% bonus / punti ferita inflitti o cura / turno di effetto magico concesso / 1 spazio extra in cui la sua azione ha effetto. Se è monouso, il valore è dimezzato.
 
-5. Dimensione e Materiale
+## 5. Dimensione e Materiale
 
 Nel gioco, ogni soggetto fisico ha una "dimensione" e un "materiale", da cui è possibile stabilire il numero di punti ferita: Moltiplicatore del materiale x Valore della dimensione. Se per un personaggio il termine dei punti ferita rappresenta la morte, per un oggetto rappresenterà uno stato di danneggiamento in cui è ora usurato e inutile. La dimensione deriva dallo spazio occupato dal soggetto e cambia anche il campo entro cui può compiere azioni a contatto. Per ottenere la dimensione si confronta il valore dello spazio con i parametri mostrati nella seguente tabella:
 

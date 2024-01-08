@@ -1,5 +1,6 @@
-
-ARS Espresso - v. 16.08 - www.ars-rpg.com
+# ARS Espresso Tabletop
+## v. 16.08 - www.ars-rpg.com
+---
 
 The fast line. Only the three Attitudes for fast sessions and board games. 
 
@@ -11,7 +12,7 @@ A player (author of the "plot" of the story and game referee) plays the role of 
 
 
 
-1 The character
+## 1. The character
 Each player  *creates his character by dividing 10 Creation Points * from the following three Attitudes and annotating them on his character sheet, each with  *a minimum value of 1 and a maximum of 8 *:
 
  
@@ -34,7 +35,7 @@ The player then notes the rumors:  *Total Hit Points *  (number of damage beyond
 
 
 
-2. Attitudes
+## 2. Attitudes
 
 When the player wants to use the skills of his character for an action that can give him advantages or disadvantages within the story (fight, use, search ...) he will have to make a  *test on the attitude *  related to the type of action taken by pulling 1 dice of 10 faces: If the result is equal to or less than the value of Attitude used (considering also any bonuses given for example by the Equipment) the test succeeds, otherwise it fails.
 At a test of Attitude the result of 1 (called  *positive critic * ) is the automatic success of the action, 10 is the disastrous failure (  *negative critic * ). The  *number of successes to the test *  is the difference between the value used in the test (with any bonuses) and the result of the dice.
@@ -44,7 +45,7 @@ Successes represent the effectiveness of the test performed: in  *combat tests *
 
 
 
-3. Equipment
+## 3. Equipment
  *Weapons and tools * within the game add a bonus to the Attitude to which they are associated (only in actions related to their use). The  *protections increase the armor value * : extra hit points that are consumed before the character's basic hit points are exhausted. The  *spells convert mana in fact * , as indicated in their description. Each character can  *carry a maximum number of items of equipment *  equal to the number of his current Hit Points.
  *Value of the equipment *  is generically attributable to 10 deniers each: +1 bonus / hit point that deals or care / turn of magic effect granted / 1 extra meter in which its action takes effect. If it is mono-use the value is halved.
 The equipment grants a  *maximum *  total  *bonus * equal to the value that the character increases. Each object requires an action to  *be put, removed or moved * .
@@ -53,7 +54,7 @@ The equipment grants a  *maximum *  total  *bonus * equal to the value that the 
 
 
 
-4. The game
+## 4. The game
 The game round takes place starting from the character with the highest Celeritas.  *In each turn each character has at his disposal 3 actions *  of which he accumulates a  *penalty of -2 the second action and -3 the third * . The player can also choose to  *keep third and possibly also second action * (with relative malus) to use them within the next turn. It is possible to skip the turn (  *rest * ) by sacrificing the 3 actions and thus recovering the value of Corpus divided 3 into Hit Points and Animus divided by 3 into Mana.  *The game ends * with the death of the characters or success in their business.
 
 [EXAMPLE] Rogar is in a combat phase and uses in his first round his 3 actions to attack: he will perform his first melee attack test with the value of 7 (Corpus 5 + 2 bonus given by the sword as seen in the previous example ), in the second action the value of 5 and in the third of 3. In the second round he decides to keep his third action, so in the third round he can perform an extra action with the -3 penalty of the previous round.

@@ -1,6 +1,8 @@
-Espresso Live - v. 16.08 - www.ars-rpg.com
-The fast line. Only the three Attitudes for fast sessions and board games. 
+# ARS Espresso Live
+## v. 16.08 - www.ars-rpg.com
+---
 
+The fast line. Only the three Attitudes for fast sessions and board games. 
 
 The live role-playing game is a great theatrical improvisation in which all the players are actors engaged in interpreting their own character.
 There is no definite narration or setting: on an initial scene, prepared by a "Magister" (who organizes the event and certifies its safety), your character is free to interact as he believes with the other characters and with the story that you share. The aim of the game is to have fun and better interpret your character by living a real adventure together.
@@ -8,7 +10,7 @@ There is no definite narration or setting: on an initial scene, prepared by a "M
 
 
 
-1. The character
+## 1. The character
 Each player prepares a  *card of the character by * dividing  *10 creation points * into three values ​​called Attitudes and corresponding to all the types of tests that will meet:
 
  
@@ -30,7 +32,7 @@ The player then notes the entries:  *Total Hit Points * (number of damages beyon
 
 
 
-2. The Game
+## 2. The Game
 In addition to the total freedom at stake, there are game conventions to be known and respected:
  *Start and end * : The game event begins with the Magister declaring the "Time in!" And ends with the Magister declaring the "Time out!". Between the beginning and the end there are no breaks in the interpretation and in any case the players will have to make sure that the game goes on.
  *Using Attitudes * : The character has to use his own Attitude to change the story or gain an advantage. To use Attitudes declares aloud: <em> *"ARS! [Attitude Name] [Value Used] " *</em> showing any cards or instruments used in the action.
@@ -52,7 +54,7 @@ At the beginning of each hour all the characters take advantage of  *the recover
  *Theft and information * : Inside the game it is also possible to lie and steal. Keep in mind that  *there is no extra-game information * : when players exchange information regarding the game they are automatically considered in play and the information acquired can be used by their characters. As soon as possible  *the thief must deliver the stolen goods to the Magister * so that it can be traced and recovered by the rightful owner in the recovery phase.
 
 
-3. Security Rules
+## 3. Security Rules
  - Any kind of physical contact is forbidden. In particular attacks on the head, on the genitals, in the lunge or in charge are forbidden. *
  - Prohibit real weapons, sharp tools, sharp, not in perfect condition or considered dangerous by the Magister. *
  - At any time each player must be free to declare himself "out of the game!" And, keeping his hands up, leave the playing field as quickly as possible. The character leaves the scene with the exit of the player's scene. *";

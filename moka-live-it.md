@@ -1,10 +1,12 @@
-ARS Moka - v. 16.08 - www.ars-rpg.com
+# ARS Moka Live
+## v. 16.08 - www.ars-rpg.com
+---
 
 La linea classica. Attitudini e differenti arti per il gioco più completo.
 
 Il *gioco di ruolo dal vivo* è una grande improvvisazione teatrale in cui tutti i giocatori sono attori. Con *ARS Moka Live* non c'è una narrazione o un ambiente definiti: su una scena iniziale, preparata da un "Magister" (che organizza l'evento e ne certifica la sicurezza), il tuo personaggio è libero di interagire come crede con gli altri personaggi e la storia condivisa. *Tutto ciò che vedi e senti è reale e utile ai fini del gioco. Non ci sono azioni mimetiche o descritte e l'azione avviene in tempo reale. *Non è necessario alcun materiale per giocare tranne questo manuale che ogni giocatore deve leggere attentamente. Lo scopo del gioco è divertirsi e interpretare al meglio il proprio personaggio vivendo insieme un'avventura reale.
 
-1.0 Sicurezza
+## 1.0 Sicurezza
 
 Regole di sicurezza da *rispettare assolutamente* durante il gioco:
  - È vietato qualsiasi tipo di contatto fisico.*
@@ -12,7 +14,7 @@ Regole di sicurezza da *rispettare assolutamente* durante il gioco:
  - Proibite armi reali o strumenti ritenuti pericolosi dal Magister. L'attrezzatura non in condizioni perfette deve essere consegnata al Magister e NON deve essere utilizzata.*
  - In qualsiasi momento ogni giocatore deve essere libero di dichiararsi "fuori dal gioco!" E, tenendo le mani in alto, lasciare il campo di gioco il più rapidamente possibile. Il personaggio "muore" con il giocatore che lascia la scena.*
 
-2.0 Il gioco
+## 2.0 Il gioco
 Il gioco inizia immaginando il nostro personaggio. Tenendo presente che dovremo interpretarlo per lungo tempo e che dovrà essere in linea con l'ambiente stabilito per l'evento. Un modo rapido per definirlo è scrivere il "background" una lettera in prima persona dove viene presentato con almeno tre frasi: la prima riguardante la sua origine, la seconda riguardante ciò che fa attualmente e l'ultima riguardante ciò che vuole ottenere. Il personaggio è definito dal suo background e dalle Arti, abilità in cui è particolarmente esperto e che esamineremo ulteriormente. L'equipaggiamento iniziale per ogni personaggio sarà 1 arma, 1 protezione, 1 strumento + 1 oggetto di scelta per ogni Arte acquisita. Di solito i background vengono consegnati prima dell'evento al Magister in modo che possa verificarli e integrarli nella storia, ma non è raro che sia lo stesso Magister a scrivere il background e ad assegnarli, per avere una storia più coerente o per incontrare i giocatori. Il Magister fornirà a ciascun giocatore un "foglio del personaggio" con tutte le informazioni e che sarà utilizzato in caso di controlli da parte dell'organizzazione.
 
 [ESEMPIO] Esempio: Francesca scrive il background del suo personaggio: "Mi chiamo Lois Searie e vengo da una modesta famiglia di Londra. Sono una segretaria in una società immobiliare. La mia curiosità innata mi porta a cercare nuove avventure e misteri da svelare".
@@ -21,7 +23,7 @@ L'evento di gioco inizia con il Magister che dichiara "Time in!" e termina con i
 
 [NOTA] Nota: In eventi più lunghi i personaggi possono essere potenziati accumulando "Punti Esperienza" che consentono l'acquisizione di alcune abilità particolari chiamate Arti. Partecipare a un evento dal vivo (con abiti e accessori in tema con l'ambientazione del gioco) significa guadagnare automaticamente 1 punto esperienza all'inizio dell'evento. Il Magister può assegnare punti esperienza aggiuntivi a sua discrezione, ad esempio per premiare coloro che riescono a completare gli obiettivi in gioco. Tenendo presente un valore unico di Punti Esperienza Totali, il numero di Punti Esperienza necessari per ottenere nuove Arti è progressivo di un'unità: la prima Arte si ottiene con il primo Punto Esperienza, la seconda arrivando a 3 Punti Esperienza Totali (1 + 2), la terza accumulandone 6 (3 + 3), la quarta 10 (6 + 4) e così via.
 
-2.1 Convenzioni di gioco
+## 2.1 Convenzioni di gioco
 Oltre all'interpretazione libera ci sono alcuni elementi straordinari da considerare durante l'esperienza di gioco:
  - La chiamata "ARS" *: Per indicare un evento particolare in gioco (come l'effetto di un incantesimo o un oggetto elaborato) usiamo la chiamata "ARS": una parola predefinita da esclamare a voce alta e chiaramente. Questa chiamata segue un comando semplice, una dur
 
@@ -38,7 +40,7 @@ ata e un raggio: il giocatore a cui è rivolto questo comando deve eseguirlo imm
  - Furto e informazioni *: All'interno del gioco è anche possibile mentire e rubare. Tenere presente che non ci sono informazioni extragioco: quando i giocatori restituiscono informazioni sul gioco vengono automaticamente considerati in gioco e le informazioni acquisite possono essere utilizzate dai loro personaggi. Tutti gli oggetti possono essere rubati in gioco (le eccezioni sono gli oggetti di gioco e gli effetti personali dei giocatori). Non appena possibile il ladro deve consegnare la refurtiva al Magister in modo che possa essere restituita al legittimo proprietario una volta fuori dal gioco.
  - Recupero *: all'inizio di ogni ora ogni personaggio recupera: Metà dei suoi punti ferita totali da aggiungere alle zone scelte dal giocatore. Oggetti rubati nel tempo di gioco precedente. Metà del numero totale di punti-Mana e/o carte del master che ha a disposizione.
 
-3.0 Gioco Avanzato: Magia
+## 3.0 Gioco Avanzato: Magia
 I personaggi che hanno l'Arte "Magia" ottengono una riserva di "Mana" che consente di utilizzare la chiamata "ARS!" In gioco a volontà. Ogni chiamata deve utilizzare almeno un punto Mana e più Mana può essere sacrificato per concentrarne gli effetti. La chiamata deve essere fatta in modo chiaro e ad alta voce, rivolta all'obiettivo a cui è indirizzata e consiste in tre parti, in questo modo:
 <div align="center"> *"ARS! [Effetto] [Durata] [Distanza]" *
  *"Effetto"* significa un ordine semplice (che non può essere scomposto in sotto-azioni) che l'obiettivo deve eseguire. Ogni incantesimo può avere SOLO UN effetto. *"Durata"* indica la durata in secondi che l'incantesimo deve avere. Ogni incantesimo ha una durata di 10 secondi e per ogni punto Mana che viene aggiunto può aumentare di 10 secondi. *"Distanza"* è la distanza entro cui l'incantesimo produce effetto. Ogni incantesimo ha una distanza minima di 5 metri e per ogni punto Mana che viene aggiunto può aumentare di 5 metri.
@@ -54,7 +56,7 @@ I personaggi che possiedono l'Arte dei "cartelli Maestri" ottengono "cartelli Ma
 *"Descrizione" * è facoltativa ma utile per aiutare il lettore a interpretare il cartello specificando, ad esempio, che il cartello rappresenta una trappola o che gli dà una sensazione di sollievo.  *"Effetto" * significa un ordine semplice (che non può essere decomposto in sotto-azioni) che il lettore deve eseguire. Ogni cartello può contenere SOLO UN effetto.  *"Durata" * indica la durata in secondi dell'effetto. Ogni cartello può contenere una base di 20 secondi e puoi aggiungere altri 20 secondi per ogni cartello extra che vuoi sacrificare. Il lettore dovrà strappare il cartello una volta letto, quindi avrà effetto solo una volta durante il gioco. Ogni carta maestra cura o cura 5 punti ferita base che aumentano di 2 per ogni carta aggiuntiva che viene sacrificata.
 [ES: Giada interpreta Venusia, una sacerdotessa che decide di creare una pozione di cura da offrire ai suoi alleati: attaccherà su un flacone un cartello con la condizione "Mima di bere" e descrizione: "Pozione di cura! +5 punti ferita."]
 
-4.0 Arti
+## 4.0 Arti
 
 Ecco una lista di Arti di base che il personaggio può acquisire, gli effetti delle Arti possono essere accumulati acquisendo la stessa Arte:
 
