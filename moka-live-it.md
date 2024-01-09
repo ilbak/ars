@@ -63,65 +63,65 @@ I personaggi che possiedono l'Arte dei "cartelli Maestri" ottengono "cartelli Ma
 Ecco una lista di Arti di base che il personaggio può acquisire, gli effetti delle Arti possono essere accumulati acquisendo la stessa Arte:
 
 
-Per curare
+### Curare
 Consente di curare te stesso o un altro personaggio. Sfregando l'area da trattare con un tessuto ruvido (come bende) producendo il suono di fruscio per 10 secondi, recuperi 1 punto ferita (per ogni Arte di cura che possiedi) nella parte trattata.
 
 
-Riparazione
+### Riparazione
 Consente di riparare armature dai punti ferita che subiscono in combattimento. Aumenta di 1 punto ferita (per ogni Arte di riparazione che possiedi) il recupero che puoi dare agli oggetti imitando l'azione di riparazione per 10 secondi. L'azione da mimare per riparare è battere un oggetto rigido (un martello o un bastone) contro il suolo, producendo il suono di un colpo secco contro il terreno.
 
 
-Usa **[strumento]**
+### Usa **[strumento]**
 -20 secondi nell'elaborazione di un cartello maestro relativo allo strumento. ad es. "Utilizzare strumenti da scasso" ti permetterà di aprire un lucchetto in 20 secondi che richiedeva 40.
 
 
-Combattimento con **[arma]**
+### Combattimento con **[arma]**
 +1 danni usando un tipo di arma da specificare.
 
 
-Punto ferita **[braccia / gambe / torso]**
+### Punto ferita **[braccia / gambe / torso]**
 + o punti ferita base in un'area del corpo da specificare tra: "Braccia" (+1 al braccio destro e +1 al sinistro) "Gambe" (+1 gamba destra e +1 sinistra) "Torso" (+2 al torace).
 
 
-Rigenerazione
+### Rigenerazione
 +3 punti ferita per il recupero automatico
 
 
-Magia
+### Magia
 +5 punti totali-Mana (v.4.0)
 
 
-Velocità magica
+### Velocità magica
 -1 al numero di punti-Mana necessari per aumentare la durata di un incantesimo di 10 secondi
 
 
-Spazio magico
+### Spazio magico
 -1 al numero di punti-Mana necessari per aumentare l'ampiezza di 5 metri
 
 
-Magia distruttiva
+### Magia distruttiva
 Consente di caricare 2 danni base extra per ogni incantesimo.
 
 
-Magia guaritrice
+### Magia guaritrice
 Consente di curare 2 punti ferita base extra per ogni incantesimo.
 
 
-Resistenza alla magia
+### Resistenza alla magia
 Aumenta il numero di punti ferita che devono essere sopportati per far scomparire un incantesimo.
 
 
-Cartelli maestri
+### Cartelli maestri
 +5 cartelli maestri (vedi 5.0)
 
 
-cartelli veloci
+### Cartelli veloci
 Aumentano di 10 secondi la durata di base dell'effetto che desideri dare ai tuoi cartelli maestri.
 
 
-cartelli distruttivi
+### Cartelli distruttivi
 Consente di caricare 3 danni extra per ogni cartello maestro.
 
 
-cartelli di guarigione
+### Cartelli guaritrici
 Consente di curare 3 punti ferita extra per ogni cartello maestro

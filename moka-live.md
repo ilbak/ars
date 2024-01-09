@@ -70,51 +70,51 @@ The content of a master card will be:
 
 Here is a list of basic Arts that the character can acquire, the effects of the Arts can be accumulated acquiring the same Art:
 
-To heal
+### To heal
 It allows you to treat yourself or another character. Rubbing the area to be treated with a rough fabric (such as bandages) producing the sound of rustling for 10 seconds, you recover 1 hit point (for each healing Art you have) in the healed part.
 
-Repair
+### Repair
 It allows to repair armor from the hit points that they suffer in combat. Increase by 1 hit point (for each repairing Art you have) the recovery you can give to objects by mimicking the action of repairing for 10 seconds. The action to be mimed to repair is to beat a stiff object (a hammer or a stick) against the ground, producing the sound of a sharp blow against the ground.
 
-Use **[tool]**
+### Use **[tool]**
 -20 seconds in the elaboration of a master cartel related to the instrument. es. "Using burglary tools" will allow you to open a lock in 20 seconds that required 40.
 
-Combat with **[weapon]**
+### Combat with **[weapon]**
 +1 damage using a type of weapon to be specified.
 
-Wound point **[arms / legs / torso]**
+### Health point **[arms / legs / torso]**
 + or basic hit points in one area of ​​the body to be specified between: "Arms" (+1 to the right arm and +1 to the left) "Legs" (+1 right leg and +1 left) "Torso" (+2 to the torso ).
 
-Regeneration
+### Regeneration
 +3 hit points for automatic recovery
 
-Magic
+### Magic
 +5 total points-Mana (v.4.0)
 
-Magic Speed
+### Magic Speed
 -1 to the number of points-Mana needed to increase the duration of a 10-second spell
 
-Magic Span
+### Magic Span
 -1 to the number of points-Mana needed to increase the span of 5 meters
 
-Destructive Magic
+### Destructive Magic
 Allows you to load 2 extra basic damage to each spell.
 
-Healing Magic
-It allows you to heal 2 extra basic wound points for each spell.
+### Healing Magic
+It allows you to heal 2 extra basic health points for each spell.
 
-Magic Resistance
+### Magic Resistance
 Increases the number of hit points that must be incurred to make a spell vanish
 
-Master cartels
+### Master cartels
 +5 Master signs (see 5.0)
 
-Quick Signs
+### Quick Signs
 Increase the base duration of the effect you want to give to your master signs by 10 seconds.
 
-Destructive signs
+### Destructive signs
 It allows you to load 3 extra damage to each master card.
 
-Healing Signs
-It allows you to heal 3 extra wound points for each master cartel
+### Healing Signs
+It allows you to heal 3 extra health points for each master cartel
 

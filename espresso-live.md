@@ -13,13 +13,13 @@ There is no definite narration or setting: on an initial scene, prepared by a "M
 ## 1. The character
 Each player prepares a  *card of the character by * dividing  *10 creation points * into three values ​​called Attitudes and corresponding to all the types of tests that will meet:
 
-<img src="https://i.imgur.com/sfUTZJE.png" style="margin-top:30px;"> **CORPUS** 
+<img src="https://i.imgur.com/sfUTZJE.png" style="margin-top:30px;"> **CORPUS**  
 Physical strength, endurance and melee attack
 
 <img src="https://i.imgur.com/7hpixK6.png" style="margin-top:30px;"> **CELERITAS** 
 Speed, precision, instrument use and distance attack
 
-<img src="https://i.imgur.com/vkP4lCL.png" style="margin-top:30px;"> ** ANIMUS ** 
+<img src="https://i.imgur.com/vkP4lCL.png" style="margin-top:30px;"> **ANIMUS** 
 Knowledge, communication, perception and magical arts
 
 
