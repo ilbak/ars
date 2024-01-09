@@ -20,7 +20,7 @@ Physical strength, endurance and melee attack
 <img src="https://i.imgur.com/7hpixK6.png" style="margin-top:30px;"> **CELERITAS**
 Speed, precision, instrument use and distance attack
 
-<img src="https://i.imgur.com/vkP4lCL.png" style="margin-top:30px;"> ** ANIMUS ** 
+<img src="https://i.imgur.com/vkP4lCL.png" style="margin-top:30px;"> **ANIMUS** 
 Knowledge, communication, perception and magical arts
 
 
