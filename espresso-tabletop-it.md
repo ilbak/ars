@@ -47,4 +47,4 @@ I successi rappresentano l'efficacia del test eseguito: nei *test di combattimen
 *Valore dell'equipaggiamento* è genericamente attribuibile a 10 denari ciascuno: +1 bonus/punto ferita che infligge o cura/giro di effetto magico concesso/1 metro extra in cui l'azione ha effetto. Se è monouso, il valore è dimezzato.
 L'equipaggiamento concede un *bonus totale massimo* pari al valore che il personaggio aumenta. Ogni oggetto richiede un'azione per *essere messo, rimosso o spostato*.
 
-**[ESEMPIO]** Rogar ha una spada che dà +2 all'attacco. Avendo 5 nell'Attitudine Corpus, una volta equipaggiata avrà 7 nei test di attacco corpo a corpo. Esegue un
+**[ESEMPIO]** Rogar è in una fase di combattimento e utilizza nel suo primo round le sue 3 azioni per attaccare: eseguirà il suo primo test di attacco corpo a corpo con il valore di 7 (Corpus 5 + 2 bonus dato dalla spada come visto nell'esempio precedente), nella seconda azione il valore di 5 e nella terza di 3. Nel secondo round decide di conservare la sua terza azione, così nel terzo round può eseguire un'azione extra con la penalità di -3 del round precedente.
