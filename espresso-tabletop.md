@@ -1,6 +1,7 @@
 ![ARS Espresso](https://github.com/ilbak/ars/blob/main/asset/2NUdKbg.png)
 # ARS Espresso Tabletop
-## v. 16.08 - www.ars-rpg.com
+## v. 16.08
+<h4><a href='https://www.ilbak.it'>by Roberto "the Bak" Cananzi</a></h4>
 ---
 
 The fast line. Only the three Attitudes for fast sessions and board games. 
