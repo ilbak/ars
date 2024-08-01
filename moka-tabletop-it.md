@@ -1,6 +1,7 @@
 ![ARS Moka](https://github.com/ilbak/ars/blob/main/asset/2C9caoY.png)
 # ARS Moka Tabletop
-## v. 16.08 - www.ars-rpg.com
+## v. 16.08
+<h4><a href='https://www.ilbak.it'>by Roberto "the Bak" Cananzi</a></h4>
 ---
 
 La linea classica. Attitudini e differenti arti per il gioco più completo.
