@@ -1,6 +1,7 @@
 ![ARS Cappuccino](https://github.com/ilbak/ars/blob/main/asset/Cq6miVk.png)
 # ARS Cappuccino
-## v. 16.08 - www.ars-rpg.com
+## v. 16.08
+<h4><a href='https://www.ilbak.it'>by Roberto "the Bak" Cananzi</a></h4>
 ---
 
 Un *gioco di ruolo* è un'interpretazione teatrale in cui ogni giocatore interpreta un personaggio della storia per il semplice piacere di interpretarlo e scrivere insieme la migliore storia possibile (concetto di de interpretatio).
