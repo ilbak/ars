@@ -1,7 +1,7 @@
 <h1><img src="https://i.imgur.com/ObeGYTU.png"></h1>
-<h1>A.R.S.</h1><h2>(All-Purpose Roleplaying System)</h2>
-</h2><a href='https://www.ars-rpg.com'>www.ars-rpg.com</a></h2>
-
+<h3>(All-purpose Roleplaying System)</h3>
+<h4><a href='https://www.ilbak.it'>by Roberto "the Bak" Cananzi</a></h4>
+  <hr>
 <p>ARS is a gaming system aimed at simplicity and adaptability in every play experience.</p>
 
 <p>Born in 2005 from an idea of Roberto "the BaK" Cananzi (www.ilbak.it) that every year takes care of the edition and the development of new manuals.</p>
