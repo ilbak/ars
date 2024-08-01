@@ -1,6 +1,7 @@
 ![ARS Cappuccino](https://github.com/ilbak/ars/blob/main/asset/Cq6miVk.png)
 # ARS Cappuccino
-## v. 16.08 - www.ars-rpg.com
+## v. 16.08
+<h4><a href='https://www.ilbak.it'>by Roberto "the Bak" Cananzi</a></h4>
 ---
 
 *A role-playing game * is a theatrical improvisation in which each player play a character of the story for the simple pleasure of interpreting it and writing together the best possible story (concept of de interpretatio).
