@@ -1,6 +1,6 @@
 ![ARS Espresso](https://github.com/ilbak/ars/blob/main/asset/2NUdKbg.png)
 # ARS Espresso Tabletop
-## v. 20.01
+## v. 26.01
 <h4><a href='https://www.ilbak.it'>by Roberto "the Bak" Cananzi</a></h4>
 ---
 
